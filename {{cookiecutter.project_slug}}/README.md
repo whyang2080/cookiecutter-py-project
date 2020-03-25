@@ -5,11 +5,11 @@
 
 Requirements
 ------------
-Install `cookiecutter` command line: `pip install cookiecutter`    
+conda install --file requirements-dev.txt
 
 Usage
 -----
-Generate a new Cookiecutter template layout: `cookiecutter gh:{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}`    
+N/A 
 
 License
 -------
